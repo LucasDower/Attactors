@@ -1,2 +1,2 @@
-# cs142lab7
+# Attractor
 ![](preview.gif)
